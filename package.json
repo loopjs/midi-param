@@ -1,0 +1,27 @@
+{
+  "name": "@loopjs/midi-param",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loopjs/control-param.git"
+  },
+  "author": "Matt McKegg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loopjs/control-param/issues"
+  },
+  "homepage": "https://github.com/loopjs/control-param#readme",
+  "dependencies": {
+    "audio-slot": "^3.6.0",
+    "geval": "^2.1.1",
+    "midi-port-holder": "^2.1.0",
+    "observ": "^0.2.0",
+    "observ-midi": "^2.1.0",
+    "observ-struct": "^6.0.0"
+  }
+}
