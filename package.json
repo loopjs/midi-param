@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loopjs/control-param.git"
+    "url": "git+https://github.com/loopjs/midi-param.git"
   },
   "author": "Matt McKegg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/loopjs/control-param/issues"
+    "url": "https://github.com/loopjs/midi-param/issues"
   },
-  "homepage": "https://github.com/loopjs/control-param#readme",
+  "homepage": "https://github.com/loopjs/midi-param#readme",
   "dependencies": {
     "audio-slot": "^3.6.0",
     "geval": "^2.1.1",
